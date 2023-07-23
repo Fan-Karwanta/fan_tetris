@@ -1,4 +1,4 @@
-# Fan's_Tetris
+# Fan's_Tetris (Tetris Game)
 ### By Fan Karwanta
 My Own Coded Tetris Game (HTML, CSS, JavaScript)
 
