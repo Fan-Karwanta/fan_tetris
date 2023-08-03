@@ -9,4 +9,4 @@ Visit: https://fankarwanta.com
 
 You can clone this if you want.
 
-All Rights Reserved.
+2023 All Rights Reserved.
