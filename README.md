@@ -7,6 +7,4 @@ This project maybe not that wonderful with UI design but this is my first projec
 
 Visit: https://fankarwanta.com
 
-You can clone this if you want.
-
 2023 All Rights Reserved.
